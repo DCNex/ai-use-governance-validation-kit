@@ -3,6 +3,17 @@ This repository provides a **design-level governance and validation framework**
 for enterprise AI / LLM adoption, with a strong focus on **auditability, risk control,
 and operational readiness**.
 
+### Regulatory alignment (Taiwan FSC)
+This kit is aligned with the Taiwan Financial Supervisory Commission (FSC)
+“Guidelines for the Use of AI in the Financial Industry” (Jun 2024),
+and maps its chapters to the FSC’s six core principles across the AI lifecycle:
+- Governance & accountability
+- Fairness & human-centric values
+- Privacy & customer rights
+- Robustness & security
+- Transparency & explainability
+- Sustainability
+
 The goal is to ensure that AI is **usable, controllable, and accountable**
 before scaling into production environments.
 >README available in: [中文](README.md) | [English](README-en.md)
