@@ -3,8 +3,8 @@
 並依據金管會《金融業運用人工智慧（AI）指引》進行設計。
 
 整體設計採取 **風險基礎與比例原則**，
-在促進創新之同時，確保責任歸屬、客戶權益及金融穩定。 :contentReference[oaicite:5]{index=5}
-
+在促進創新之同時，確保責任歸屬、客戶權益及金融穩定。 
+> available in: [中文](01_scope_redlines.md) | [English](01_scope_redlines-en.md)
 ---
 
 ### 納入範疇（In-scope）
