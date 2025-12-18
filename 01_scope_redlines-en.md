@@ -4,8 +4,8 @@ for enterprise AI / LLM adoption in the financial industry, in alignment with th
 Taiwan FSC “Guidelines for the Use of AI in the Financial Industry”.
 
 The design follows a **risk-based and proportional approach**, ensuring innovation
-while maintaining accountability, customer protection, and financial stability. :contentReference
->README available in: [中文](README.md) | [English](README-en.md)
+while maintaining accountability, customer protection, and financial stability. 
+> available in: [中文](01_scope_redlines.md) | [English](01_scope_redlines-en.md)
 ---
 
 ### In-scope AI usage
