@@ -5,7 +5,7 @@ and operational readiness**.
 
 The goal is to ensure that AI is **usable, controllable, and accountable**
 before scaling into production environments.
-> 🌐 README available in: [中文](README.md) | [English](README-en.md)
+>README available in: [中文](README.md) | [English](README-en.md)
 
 ---
 
