@@ -4,8 +4,8 @@ for enterprise AI / LLM adoption in the financial industry, in alignment with th
 Taiwan FSC “Guidelines for the Use of AI in the Financial Industry”.
 
 The design follows a **risk-based and proportional approach**, ensuring innovation
-while maintaining accountability, customer protection, and financial stability. :contentReference[oaicite:1]{index=1}
-
+while maintaining accountability, customer protection, and financial stability. :contentReference
+>README available in: [中文](README.md) | [English](README-en.md)
 ---
 
 ### In-scope AI usage
@@ -58,7 +58,7 @@ AI use cases should be classified using a **risk-based approach**:
   - Internal productivity with no customer impact  
   - Requires baseline controls and usage monitoring
 
-Risk tiering determines the **depth of controls**, not the eligibility to use AI. :contentReference[oaicite:3]{index=3}
+Risk tiering determines the **depth of controls**, not the eligibility to use AI. 
 
 ---
 
@@ -70,7 +70,7 @@ For generative AI systems:
 - Training and prompting data must respect data classification and privacy rules
 - Model limitations and risks should be documented and monitored
 
-This aligns with FSC guidance that generative AI remains a **tool**, not a decision-maker. :contentReference[oaicite:4]{index=4}
+This aligns with FSC guidance that generative AI remains a **tool**, not a decision-maker. 
 
 ---
 
